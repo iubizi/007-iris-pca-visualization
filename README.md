@@ -8,4 +8,4 @@ PCA is a linear dimensionality reduction method. Dimensionality reduction does n
 
 pca uses svd for processing, so it is fast and uses little memory.
 
-https://github.com/iubizi/007-iris-pca-visualization/blob/main/pca.PNG
+(https://github.com/iubizi/007-iris-pca-visualization/blob/main/pca.PNG)
